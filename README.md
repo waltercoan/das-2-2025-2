@@ -35,3 +35,27 @@
 - [lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
 
 
+## Aula 27/08
+
+
+.vscode/launch.json
+
+```
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "AWS_ACCESS_KEY_ID": "",
+                "AWS_SECRET_ACCESS_KEY": ""
+            },
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
+```
