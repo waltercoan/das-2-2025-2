@@ -59,3 +59,13 @@
     ]
 }
 ```
+
+## Aula 03/09
+
+- Serviços computacionais da AWS (EC2)
+- Amazon Machine Images (AMI)
+- Tipos de Instâncias
+- Tipos de Storage (EBS/Instance Store)
+- Acesso via SSH
+
+  
