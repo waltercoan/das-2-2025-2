@@ -68,4 +68,8 @@
 - Tipos de Storage (EBS/Instance Store)
 - Acesso via SSH
 
-  
+## Aula 10/09
+
+- [Guided lab: Introducing Amazon Elastic File System (Amazon EFS)](https://awsacademy.instructure.com/courses/129676/assignments/1485164?module_item_id=12389242)
+- [Challenge (Cafe) lab: Creating a Dynamic Website for the Café](https://awsacademy.instructure.com/courses/129676/assignments/1485121?module_item_id=12389252)
+
