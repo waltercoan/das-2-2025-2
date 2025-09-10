@@ -70,6 +70,9 @@
 
 ## Aula 10/09
 
+- Tipos de Storage (EBS/Instance Store)
+- Elastic File System (EFS) / FSx
+- EC2 Windows
 - [Guided lab: Introducing Amazon Elastic File System (Amazon EFS)](https://awsacademy.instructure.com/courses/129676/assignments/1485164?module_item_id=12389242)
 
 
