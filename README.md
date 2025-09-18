@@ -76,3 +76,15 @@
 - [Guided lab: Introducing Amazon Elastic File System (Amazon EFS)](https://awsacademy.instructure.com/courses/129676/assignments/1485164?module_item_id=12389242)
 
 
+## Aula 17/09
+
+- EC2
+  - User Data
+  - Instance Metadata
+  - Placement
+- VPC
+  - O que é uma VPC?
+  - Subnets Públicas e Privadas
+  - Security Group e NACL
+  - VPN Site-to-Site
+  - Peering
