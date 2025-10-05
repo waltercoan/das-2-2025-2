@@ -3,7 +3,7 @@
 [AWS Canvas](https://awsacademy.instructure.com/courses/129676)
 
 ## Repositório dos alunos
-- [Repos](#)
+- [Repos](https://gist.github.com/waltercoan/ccff398b4ecd1899948dcbc1ab78157b)
 
 ## Aula 30/07
 
