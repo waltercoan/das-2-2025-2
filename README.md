@@ -95,3 +95,15 @@
 - [Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café](https://awsacademy.instructure.com/courses/129676/assignments/1485132?module_item_id=12389306)
 - [Module 7 Knowledge Check](https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_item_id=12389310)
 
+
+# 2 Bimestre
+
+## Aula 08/10/2025
+- RBAC x ABAC
+- Identidade Federada
+- Criptografia Simétrica x Assimétrica
+- Detecção de vulnerabilidade estática
+- Detecção de intrusão
+- [Guided lab: Creating a VPC Peering Connection](https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321)
+
+
