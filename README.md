@@ -107,3 +107,11 @@
 - [Guided lab: Creating a VPC Peering Connection](https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321)
 
 
+## Aula 15/10/2025
+
+- métricas
+- logs
+- elasticidade
+- escalabilidade horizontal
+- balanceador de carga
+- [Guided lab: Creating a Highly Available Environment](https://awsacademy.instructure.com/courses/129676/assignments/1485152?module_item_id=12389382)
