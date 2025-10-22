@@ -115,3 +115,9 @@
 - escalabilidade horizontal
 - balanceador de carga
 - [Guided lab: Creating a Highly Available Environment](https://awsacademy.instructure.com/courses/129676/assignments/1485152?module_item_id=12389382)
+
+
+## Aula 22/10/2025
+
+- Module 11: Automating Your Architecture
+- [Guided lab: Automating Infrastructure with AWS CloudFormation](https://awsacademy.instructure.com/courses/129676/assignments/1485149?module_item_id=12389414)
