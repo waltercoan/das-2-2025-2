@@ -121,3 +121,10 @@
 
 - Module 11: Automating Your Architecture
 - [Guided lab: Automating Infrastructure with AWS CloudFormation](https://awsacademy.instructure.com/courses/129676/assignments/1485149?module_item_id=12389414)
+
+## Aula 29/10/2025
+
+- Module 12: Caching Content
+- [Module 12 Knowledge Check](https://awsacademy.instructure.com/courses/129676/assignments/1485174?module_item_id=12389441)
+
+
