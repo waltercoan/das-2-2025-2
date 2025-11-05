@@ -127,4 +127,7 @@
 - Module 12: Caching Content
 - [Module 12 Knowledge Check](https://awsacademy.instructure.com/courses/129676/assignments/1485174?module_item_id=12389441)
 
+## Aula 05/11/2025
 
+- Module 13: Building Decoupled Architectures
+- [Guided lab: Building Decoupled Applications by Using Amazon SQS](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
