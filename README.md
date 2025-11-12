@@ -131,3 +131,12 @@
 
 - Module 13: Building Decoupled Architectures
 - [Guided lab: Building Decoupled Applications by Using Amazon SQS](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
+
+## Aula 12/11/2025
+
+- Module 14: Building Serverless Architectures and Microservices
+- [Guided lab: Implementing a Serverless Architecture on AWS](https://awsacademy.instructure.com/courses/129676/modules/items/12389475)
+
+
+
+
